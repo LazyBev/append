@@ -1,5 +1,3 @@
-# Makefile to install the 'apnd' program
-
 # Paths
 INSTALL_DIR := /usr/local/bin
 SCRIPT_NAME := apnd
